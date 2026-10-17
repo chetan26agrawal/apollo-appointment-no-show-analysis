@@ -1,26 +1,26 @@
 # Apollo Hospitals – Appointment No-Show & Patient Engagement Analysis
 
-A Python-based data analytics project focused on exploring hospital appointment patterns, patient attendance, and patient engagement to support data-driven healthcare decisions.
+A data analytics project focused on understanding hospital appointment attendance, patient no-shows, and patient engagement using Python, data visualization, and an interactive dashboard.
 
-## Project Overview
+## 📌 Project Overview
 
-This project analyzes Apollo Hospitals appointment data to understand appointment attendance patterns and identify factors related to missed appointments.
+This project analyzes Apollo Hospitals appointment data to explore appointment patterns and patient attendance. It uses Python libraries to analyze data, create visualizations, and present findings through an interactive dashboard.
 
-The project includes data analysis, visualization, and an interactive HTML dashboard to present insights in an easy-to-understand format.
+### 🚀 View Live Dashboard
 
-### 🔴 [View Live Dashboard](https://chetan26agrawal.github.io/apollo-appointment-no-show-analysis/Live%20Dashboard/index.html.html)
+**[👉 Click Here to View Live Dashboard](https://chetan26agrawal.github.io/apollo-appointment-no-show-analysis/Live%20Dashboard/)**
 
-Click the link above to open the interactive dashboard.
+Explore the interactive dashboard to view the project's analysis and visual presentation.
 
-## Project Objectives
+## 🎯 Project Objectives
 
-- Analyze appointment and patient data.
-- Explore appointment attendance and no-show patterns.
-- Identify useful trends through data analysis.
-- Create visualizations to communicate findings.
-- Present insights through an interactive dashboard.
+- Analyze hospital appointment data.
+- Explore patient attendance and no-show patterns.
+- Perform data analysis and identify trends.
+- Create charts to communicate findings visually.
+- Present the analysis through an interactive dashboard.
 
-## Tools & Technologies
+## 🛠️ Tools & Technologies
 
 - Python
 - NumPy
@@ -29,60 +29,84 @@ Click the link above to open the interactive dashboard.
 - Seaborn
 - Jupyter Notebook
 - Pickle
-- Git and GitHub
 - HTML
+- Git and GitHub
 
-## Project Structure
+## 📊 Project Visualizations – Charts Gallery
+
+The following screenshots are available in the repository's `Charts` folder.
+
+### Chart Screenshot 1
+
+![Chart Screenshot 1](Charts/Screenshot%202026-10-17%20153131.png)
+
+### Chart Screenshot 2
+
+![Chart Screenshot 2](Charts/Screenshot%202026-10-17%20153223.png)
+
+### Chart Screenshot 3
+
+![Chart Screenshot 3](Charts/Screenshot%202026-10-17%20153244.png)
+
+### Chart Screenshot 4
+
+![Chart Screenshot 4](Charts/Screenshot%202026-10-17%20153304.png)
+
+### Chart Screenshot 5
+
+![Chart Screenshot 5](Charts/Screenshot%202026-10-17%20153330.png)
+
+### Chart Screenshot 6
+
+![Chart Screenshot 6](Charts/Screenshot%202026-10-17%20153432.png)
+
+**[📂 View All Chart Screenshots on GitHub](https://github.com/chetan26agrawal/apollo-appointment-no-show-analysis/tree/main/Charts)**
+
+## 📁 Project Structure
 
 ```text
 apollo-appointment-no-show-analysis/
 │
 ├── Charts/
+│   ├── Screenshot 2026-10-17 153131.png
+│   ├── Screenshot 2026-10-17 153223.png
+│   ├── Screenshot 2026-10-17 153244.png
+│   ├── Screenshot 2026-10-17 153304.png
+│   ├── Screenshot 2026-10-17 153330.png
+│   └── Screenshot 2026-10-17 153432.png
 │
 ├── Data Set/
-│
 ├── Live Dashboard/
-│   └── index.html.html
-│
 ├── Notebook/
-│
 └── README.md
 ```
 
-## Project Workflow
+## 🔄 Project Workflow
 
 1. Data loading and inspection
 2. Data cleaning and preparation
 3. Exploratory Data Analysis (EDA)
-4. Data analysis using Python libraries
+4. Analysis using Python libraries
 5. Data visualization
-6. Dashboard presentation
-7. Business insights and interpretation
+6. Dashboard creation and presentation
+7. Interpretation of results
 
-## Dashboard
+## 💡 Key Skills Demonstrated
 
-The interactive dashboard presents the project analysis in a visual format, making the results easier to explore and understand.
-
-**[Click here to view the Live Dashboard](https://chetan26agrawal.github.io/apollo-appointment-no-show-analysis/Live%20Dashboard/index.html.html)**
-
-## Repository
-
-Explore the complete project, including the notebook, dataset, charts, and dashboard files:
-
-[GitHub Repository](https://github.com/chetan26agrawal/apollo-appointment-no-show-analysis)
-
-## Key Skills Demonstrated
-
-- Python for Data Analysis
+- Data Analysis with Python
 - Data Cleaning and Preparation
 - Exploratory Data Analysis
 - Data Visualization
 - Pandas and NumPy
 - Matplotlib and Seaborn
-- Dashboard Presentation
-- GitHub Repository Management
+- Interactive Dashboard Presentation
+- GitHub Project Management
 
-## Author
+## 🔗 Project Repository
+
+**[View Complete Project on GitHub](https://github.com/chetan26agrawal/apollo-appointment-no-show-analysis)**
+
+## 👨‍💻 Author
 
 **Chetan Agrawal**
 
