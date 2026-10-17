@@ -1,30 +1,30 @@
 # Apollo Hospitals – Appointment No-Show & Patient Engagement Analysis
 
-A data analytics project focused on understanding hospital appointment attendance, patient no-shows, and patient engagement using Python, data visualization, and an interactive dashboard.
+A Python-based data analytics project focused on analyzing hospital appointment patterns, patient attendance, and patient engagement through data analysis and visualizations.
 
-## 📌 Project Overview
+## 🚀 Project Overview
 
-This project analyzes Apollo Hospitals appointment data to explore appointment patterns and patient attendance. It uses Python libraries to analyze data, create visualizations, and present findings through an interactive dashboard.
+This project explores hospital appointment data to understand appointment attendance and no-show patterns. It includes Python-based analysis, charts, a Jupyter Notebook, and an interactive HTML dashboard.
 
 ### 🚀 View Live Dashboard
 
-**[👉 Click Here to View Live Dashboard](https://chetan26agrawal.github.io/apollo-appointment-no-show-analysis/Live%20Dashboard/)**
+**[👉 Click Here to View Live Dashboard](https://chetan26agrawal.github.io/apollo-appointment-no-show-analysis/Live%20Dashboard/index.html.html)**
 
-Explore the interactive dashboard to view the project's analysis and visual presentation.
+Open the link above to access the dashboard hosted through GitHub Pages.
 
 ## 🎯 Project Objectives
 
 - Analyze hospital appointment data.
 - Explore patient attendance and no-show patterns.
-- Perform data analysis and identify trends.
-- Create charts to communicate findings visually.
+- Perform exploratory data analysis (EDA).
+- Create visualizations to present findings.
 - Present the analysis through an interactive dashboard.
 
 ## 🛠️ Tools & Technologies
 
 - Python
-- NumPy
 - Pandas
+- NumPy
 - Matplotlib
 - Seaborn
 - Jupyter Notebook
@@ -32,35 +32,35 @@ Explore the interactive dashboard to view the project's analysis and visual pres
 - HTML
 - Git and GitHub
 
-## 📊 Project Visualizations – Charts Gallery
+## 📊 Charts Gallery
 
-The following screenshots are available in the repository's `Charts` folder.
+The following chart screenshots are stored in the repository and displayed below.
 
-### Chart Screenshot 1
+### Chart 1
 
-![Chart Screenshot 1](Charts/Screenshot%202026-10-17%20153131.png)
+![Chart 1](Charts/Screenshot%202026-10-17%20153131.png)
 
-### Chart Screenshot 2
+### Chart 2
 
-![Chart Screenshot 2](Charts/Screenshot%202026-10-17%20153223.png)
+![Chart 2](Charts/Screenshot%202026-10-17%20153223.png)
 
-### Chart Screenshot 3
+### Chart 3
 
-![Chart Screenshot 3](Charts/Screenshot%202026-10-17%20153244.png)
+![Chart 3](Charts/Screenshot%202026-10-17%20153244.png)
 
-### Chart Screenshot 4
+### Chart 4
 
-![Chart Screenshot 4](Charts/Screenshot%202026-10-17%20153304.png)
+![Chart 4](Charts/Screenshot%202026-10-17%20153304.png)
 
-### Chart Screenshot 5
+### Chart 5
 
-![Chart Screenshot 5](Charts/Screenshot%202026-10-17%20153330.png)
+![Chart 5](Charts/Screenshot%202026-10-17%20153330.png)
 
-### Chart Screenshot 6
+### Chart 6
 
-![Chart Screenshot 6](Charts/Screenshot%202026-10-17%20153432.png)
+![Chart 6](Charts/Screenshot%202026-10-17%20153432.png)
 
-**[📂 View All Chart Screenshots on GitHub](https://github.com/chetan26agrawal/apollo-appointment-no-show-analysis/tree/main/Charts)**
+**[📂 View All Charts on GitHub](https://github.com/chetan26agrawal/apollo-appointment-no-show-analysis/tree/main/Charts)**
 
 ## 📁 Project Structure
 
@@ -77,6 +77,7 @@ apollo-appointment-no-show-analysis/
 │
 ├── Data Set/
 ├── Live Dashboard/
+│   └── index.html.html
 ├── Notebook/
 └── README.md
 ```
@@ -85,22 +86,21 @@ apollo-appointment-no-show-analysis/
 
 1. Data loading and inspection
 2. Data cleaning and preparation
-3. Exploratory Data Analysis (EDA)
-4. Analysis using Python libraries
-5. Data visualization
-6. Dashboard creation and presentation
-7. Interpretation of results
+3. Exploratory Data Analysis
+4. Data visualization
+5. Dashboard presentation
+6. Interpretation of findings
 
 ## 💡 Key Skills Demonstrated
 
-- Data Analysis with Python
+- Python Data Analysis
 - Data Cleaning and Preparation
 - Exploratory Data Analysis
 - Data Visualization
 - Pandas and NumPy
 - Matplotlib and Seaborn
-- Interactive Dashboard Presentation
-- GitHub Project Management
+- Dashboard Presentation
+- GitHub Repository Management
 
 ## 🔗 Project Repository
 
